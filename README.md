@@ -7,6 +7,7 @@ Here the following tasks are done:
 - The monthly EMI,total interest ,processing fee and total payment generated are matched with the expected data provided in the dataset.
 - Database testing is performed on a minor scale to check whether the system handles varieties of data to give correct result or not.
 - It is tested for five different data and a reset button will be pressed after a test case with a single data is executed.
+- JSON data will be stored for every user information.
 
 ### Technology: </br>
 - Tool: Selenium Webdriver
